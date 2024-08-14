@@ -1,8 +1,6 @@
 ## Adventure Works Cycles - AWC 🌱
 #### May 2024
 
-Aquí tienes la traducción:
-
 ---
 
 ### Profitability Analysis of AWC with SQL Server and Power BI 💬
